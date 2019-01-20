@@ -1,10 +1,10 @@
 {
   "development": {
     "apiUrl": "https://eager-agnesi-356c26.netlify.com",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "contentApiKey": "6ddec82b-ab36-44ed-b11f-ee06e6cdf779"
   },
   "production": {
     "apiUrl": "https://eager-agnesi-356c26.netlify.com",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "contentApiKey": "6ddec82b-ab36-44ed-b11f-ee06e6cdf779"
   }
 }
