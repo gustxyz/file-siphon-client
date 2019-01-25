@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "http://ec2-34-211-149-217.us-west-2.compute.amazonaws.com",
-    "contentApiKey": "3ec4fa540dcb44e14f4269af81f7534895a9088554fe5019d76cf151ae376554acce48d703feaadfb4e80f86becd1441ed5144cef1b032f2045a835e7c5476f5"
+    "apiUrl": "https://alexanderlong-2.ghost.io",
+    "contentApiKey": "4b8da600ab8b0f1bb7df3e5474"
   },
   "production": {
-    "apiUrl": "http://ec2-34-211-149-217.us-west-2.compute.amazonaws.com",
-    "contentApiKey": "3ec4fa540dcb44e14f4269af81f7534895a9088554fe5019d76cf151ae376554acce48d703feaadfb4e80f86becd1441ed5144cef1b032f2045a835e7c5476f5"
+    "apiUrl": "https://alexanderlong-2.ghost.io",
+    "contentApiKey": "4b8da600ab8b0f1bb7df3e5474"
   }
 }
