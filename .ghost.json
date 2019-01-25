@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "http://ec2-34-218-241-24.us-west-2.compute.amazonaws.com/ghost",
+    "apiUrl": "http://ec2-34-218-241-24.us-west-2.compute.amazonaws.com",
     "contentApiKey": "11140d505d4a36279222dae8f1"
   },
   "production": {
-    "apiUrl": "http://ec2-34-218-241-24.us-west-2.compute.amazonaws.com/ghost",
+    "apiUrl": "http://ec2-34-218-241-24.us-west-2.compute.amazonaws.com",
     "contentApiKey": "11140d505d4a36279222dae8f1"
   }
 }
