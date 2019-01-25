@@ -116,7 +116,7 @@ const DefaultLayoutSettingsQuery = props => (
                         }
                     }
                 }
-                file(relativePath: {eq: "ghost-icon.png"}) {
+                file(relativePath: {eq: "oct9WisentBlock.png"}) {
                     childImageSharp {
                         fixed(width: 30, height: 30) {
                             ...GatsbyImageSharpFixed
